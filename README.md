@@ -91,5 +91,6 @@
     <p>&copy; 2025 University of Web Studies</p>
     https://github.com/Adith0503/WEBPAGE.HTML/blob/main/lecturer.jpg?raw=true
     https://github.com/Adith0503/WEBPAGE.HTML/blob/main/favicon%20.png?raw=true
+    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/favicon%20.png?raw=true
 </body>
 </html>
