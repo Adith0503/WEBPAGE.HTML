@@ -92,5 +92,6 @@
     https://github.com/Adith0503/WEBPAGE.HTML/blob/main/lecturer.jpg?raw=true
     https://github.com/Adith0503/WEBPAGE.HTML/blob/main/favicon%20.png?raw=true
     https://github.com/Adith0503/WEBPAGE.HTML/blob/main/favicon%20.png?raw=true
+    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/university.png?raw=true
 </body>
 </html>
