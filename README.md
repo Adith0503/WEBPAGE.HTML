@@ -89,5 +89,6 @@
     </dl>
     <img src="lecturer.jpg" alt="Course Lecturer" width="180">
     <p>&copy; 2025 University of Web Studies</p>
+    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/lecturer.jpg?raw=true
 </body>
 </html>
