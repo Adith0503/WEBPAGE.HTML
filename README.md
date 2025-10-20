@@ -2,12 +2,14 @@
 <html lang="en">
 <head>
   <title>Web Foundations – Syllabus</title>
-  <link rel="icon" href="favicon .png" type="image/png">
+  <link rel="icon" href="    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/favicon%20.png?raw=true
+" type="image/png">
 
 </head>
 
 <body bgcolor="yellow">
-    <img src="university.png" alt="University Logo" width="120">
+    <img src="    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/university.png?raw=true
+" alt="University Logo" width="120">
     <h1 style="color: blue;">Intro to Web Foundations</h1>
     <p><strong>Course Syllabus</strong></p>
     <h2 style="color: brown;">Overview</h2>
@@ -87,11 +89,8 @@
       <dt>Room:</dt>
       <dd>Building A, Room 204</dd>
     </dl>
-    <img src="lecturer.jpg" alt="Course Lecturer" width="180">
+    <img src="    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/lecturer.jpg?raw=true
+" alt="Course Lecturer" width="180">
     <p>&copy; 2025 University of Web Studies</p>
-    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/lecturer.jpg?raw=true
-    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/favicon%20.png?raw=true
-    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/favicon%20.png?raw=true
-    https://github.com/Adith0503/WEBPAGE.HTML/blob/main/university.png?raw=true
 </body>
 </html>
